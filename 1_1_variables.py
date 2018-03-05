@@ -8,9 +8,11 @@
 # name = value
 name = "Ali"
 year = 1396
-
+name = "farnaz"
+year = "1994"
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
 print(name)
 print(year)
+print (name + " "+ year)

@@ -15,3 +15,12 @@ print("a or b is {0}".format(a or b)) # True if one or both of them are True
 ## False ### True  ### False   ### True   #######
 ## False ### False ### False   ### False  #######
 #################################################
+
+x= True
+y= False
+print("a is {0}".format(x))
+print("b is {0}".format(y))
+print("~a is {0}".format(not x))
+print("~b is {0}".format(not y))
+print("a & b is {0}".format(x and y) # True if both of them are True
+print("a or b is {0}".format(x or y)) # True if one or both of them are True

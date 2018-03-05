@@ -16,3 +16,6 @@ area = pi * (radius ** 2)
 ## print the calculated area of the circle #
 ############################################
 print(area)
+#s
+s = pi*radius*radius 
+print(s)
